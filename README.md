@@ -337,15 +337,15 @@ Seamless theme switching
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-levantedev-181717?style=for-the-badge&logo=github)](https://github.com/levantedev)
+[![GitHub](https://img.shields.io/badge/GitHub-grkmdev-181717?style=for-the-badge&logo=github)](https://github.com/grkmdev)
 [![Discord](https://img.shields.io/badge/Discord-Contact_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/321388488140390413)
 
-<img src="https://komarev.com/ghpvc/?username=levantedev&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=grkmdev&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
-[![Star this repo](https://img.shields.io/github/stars/levantedev/Meowlist-Electron-App?style=social)](https://github.com/levantedev/Meowlist-Electron-App)
-[![Follow](https://img.shields.io/github/followers/levantedev?style=social)](https://github.com/levantedev)
+[![Star this repo](https://img.shields.io/github/stars/grkmdev/Meowlist-Electron-App?style=social)](https://github.com/grkmdev/Meowlist-Electron-App)
+[![Follow](https://img.shields.io/github/followers/grkmdev?style=social)](https://github.com/grkmdev)
 
 </div>
 
